@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/suat-map/static/js/main.cceb8a3f.js",
+    "index.html": "/suat-map/index.html",
+    "main.cceb8a3f.js.map": "/suat-map/static/js/main.cceb8a3f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cceb8a3f.js"
+  ]
+}
