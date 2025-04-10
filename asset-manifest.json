@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/suat-map/static/js/main.989dc30c.js",
+    "main.js": "/suat-map/static/js/main.3cc62d53.js",
     "index.html": "/suat-map/index.html",
-    "main.989dc30c.js.map": "/suat-map/static/js/main.989dc30c.js.map"
+    "main.3cc62d53.js.map": "/suat-map/static/js/main.3cc62d53.js.map"
   },
   "entrypoints": [
-    "static/js/main.989dc30c.js"
+    "static/js/main.3cc62d53.js"
   ]
 }
